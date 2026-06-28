@@ -1,0 +1,301 @@
+place,rating,comment,sentiment,clean_comment
+Nusa Penida,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Gili Trawangan,5,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Pantai Parangtritis,5,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Pantai Kuta Bali,5,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Pantai Derawan,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Taman Laut Bunaken,5,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Gunung Rinjani,3,Lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya.,Netral,lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya
+Taman Mini Indonesia Indah,5,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Pantai Kuta Bali,5,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Kepulauan Seribu,5,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Pantai Derawan,3,"Cukup menarik, meski ada beberapa kekurangan di fasilitas.",Netral,cukup menarik meski ada beberapa kekurangan di fasilitas
+Kawah Ijen,4,"Wisata terbaik yang pernah saya kunjungi, sangat direkomendasikan.",Positif,wisata terbaik yang pernah saya kunjungi sangat direkomendasikan
+Pantai Pink Lombok,4,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Prambanan Temple,4,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Pantai Senggigi,5,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Taman Laut Bunaken,5,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Air Terjun Gitgit,4,"Fasilitas lengkap dan nyaman, sangat cocok untuk keluarga.",Positif,fasilitas lengkap dan nyaman sangat cocok untuk keluarga
+Pantai Pink Lombok,3,Pemandangan bagus tapi terlalu ramai di akhir pekan.,Netral,pemandangan bagus tapi terlalu ramai di akhir pekan
+Istana Maimun,3,"Tempat cukup oke, ada beberapa fasilitas yang perlu diperbaiki.",Netral,tempat cukup oke ada beberapa fasilitas yang perlu diperbaiki
+Goa Pindul,4,"Wisata alam terbaik, cocok untuk liburan keluarga dan anak-anak.",Positif,wisata alam terbaik cocok untuk liburan keluarga dan anak-anak
+Raja Ampat,3,Lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya.,Netral,lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya
+Ancol Dreamland,3,"Tempat cukup oke, ada beberapa fasilitas yang perlu diperbaiki.",Netral,tempat cukup oke ada beberapa fasilitas yang perlu diperbaiki
+Kebun Raya Bogor,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Pura Besakih,5,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Taman Mini Indonesia Indah,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Prambanan Temple,3,"Standar wisata pada umumnya, tidak ada yang spesial.",Netral,standar wisata pada umumnya tidak ada yang spesial
+Air Terjun Gitgit,4,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Pantai Jimbaran,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Pantai Parangtritis,5,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Pantai Derawan,4,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Tanah Lot Bali,5,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Goa Pindul,4,"Wisata terbaik yang pernah saya kunjungi, sangat direkomendasikan.",Positif,wisata terbaik yang pernah saya kunjungi sangat direkomendasikan
+Borobudur Temple,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Ubud Monkey Forest,5,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Pantai Pink Lombok,4,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Ancol Dreamland,5,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Pantai Kuta Bali,4,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Labuan Bajo,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Prambanan Temple,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Raja Ampat,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Labuan Bajo,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Raja Ampat,5,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Air Terjun Gitgit,3,"Cukup menarik, meski ada beberapa kekurangan di fasilitas.",Netral,cukup menarik meski ada beberapa kekurangan di fasilitas
+Bromo Tengger Semeru,3,"Tempat cukup oke, ada beberapa fasilitas yang perlu diperbaiki.",Netral,tempat cukup oke ada beberapa fasilitas yang perlu diperbaiki
+Raja Ampat,1,Fasilitas toilet kurang bersih dan tidak terawat dengan baik.,Negatif,fasilitas toilet kurang bersih dan tidak terawat dengan baik
+Bromo Tengger Semeru,5,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Pantai Derawan,3,Lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya.,Netral,lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya
+Taman Laut Bunaken,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Ancol Dreamland,5,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Pantai Derawan,4,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Pantai Senggigi,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Istana Maimun,5,"Wisata alam terbaik, cocok untuk liburan keluarga dan anak-anak.",Positif,wisata alam terbaik cocok untuk liburan keluarga dan anak-anak
+Pantai Derawan,5,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Raja Ampat,4,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Pantai Jimbaran,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Lembah Harau,4,"Wisata terbaik yang pernah saya kunjungi, sangat direkomendasikan.",Positif,wisata terbaik yang pernah saya kunjungi sangat direkomendasikan
+Labuan Bajo,3,Lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya.,Netral,lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya
+Labuan Bajo,4,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Gunung Rinjani,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Ubud Monkey Forest,4,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Pantai Derawan,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Kawah Ijen,1,Fasilitas toilet kurang bersih dan tidak terawat dengan baik.,Negatif,fasilitas toilet kurang bersih dan tidak terawat dengan baik
+Pantai Kuta Bali,4,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Pantai Senggigi,5,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Kepulauan Seribu,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Borobudur Temple,5,"Wisata terbaik yang pernah saya kunjungi, sangat direkomendasikan.",Positif,wisata terbaik yang pernah saya kunjungi sangat direkomendasikan
+Ubud Monkey Forest,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Pura Besakih,3,Lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya.,Netral,lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya
+Kawah Ijen,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Pantai Senggigi,5,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Taman Mini Indonesia Indah,4,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Taman Nasional Ujung Kulon,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Pantai Derawan,5,"Pengalaman tak terlupakan, pasti akan kembali lagi ke sini.",Positif,pengalaman tak terlupakan pasti akan kembali lagi ke sini
+Gunung Rinjani,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Taman Nasional Ujung Kulon,3,"Cukup menarik, meski ada beberapa kekurangan di fasilitas.",Netral,cukup menarik meski ada beberapa kekurangan di fasilitas
+Air Terjun Gitgit,5,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Komodo National Park,1,Fasilitas toilet kurang bersih dan tidak terawat dengan baik.,Negatif,fasilitas toilet kurang bersih dan tidak terawat dengan baik
+Komodo National Park,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Bromo Tengger Semeru,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Air Terjun Gitgit,4,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Goa Pindul,4,"Lokasi mudah dijangkau, parkir luas, tempat sangat terawat.",Positif,lokasi mudah dijangkau parkir luas tempat sangat terawat
+Pantai Parangtritis,4,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Tanah Lot Bali,1,Harga tiket terlalu mahal tidak sebanding dengan fasilitasnya.,Negatif,harga tiket terlalu mahal tidak sebanding dengan fasilitasnya
+Taman Nasional Ujung Kulon,4,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Raja Ampat,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Ancol Dreamland,4,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Ancol Dreamland,3,"Cukup menarik, meski ada beberapa kekurangan di fasilitas.",Netral,cukup menarik meski ada beberapa kekurangan di fasilitas
+Raja Ampat,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Tanah Lot Bali,4,"Wisata alam terbaik, cocok untuk liburan keluarga dan anak-anak.",Positif,wisata alam terbaik cocok untuk liburan keluarga dan anak-anak
+Tanah Lot Bali,3,"Standar wisata pada umumnya, tidak ada yang spesial.",Netral,standar wisata pada umumnya tidak ada yang spesial
+Gunung Rinjani,4,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Taman Mini Indonesia Indah,3,Pemandangan bagus tapi terlalu ramai di akhir pekan.,Netral,pemandangan bagus tapi terlalu ramai di akhir pekan
+Bromo Tengger Semeru,3,Lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya.,Netral,lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya
+Taman Laut Bunaken,3,"Standar wisata pada umumnya, tidak ada yang spesial.",Netral,standar wisata pada umumnya tidak ada yang spesial
+Borobudur Temple,5,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Tanah Lot Bali,5,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Kepulauan Seribu,4,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Istana Maimun,5,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Lembah Harau,4,"Pengalaman tak terlupakan, pasti akan kembali lagi ke sini.",Positif,pengalaman tak terlupakan pasti akan kembali lagi ke sini
+Bromo Tengger Semeru,4,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Taman Laut Bunaken,4,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Bromo Tengger Semeru,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Borobudur Temple,4,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Pantai Senggigi,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Gili Trawangan,4,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Taman Laut Bunaken,5,"Fasilitas lengkap dan nyaman, sangat cocok untuk keluarga.",Positif,fasilitas lengkap dan nyaman sangat cocok untuk keluarga
+Istana Maimun,5,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Tanah Lot Bali,4,"Fasilitas lengkap dan nyaman, sangat cocok untuk keluarga.",Positif,fasilitas lengkap dan nyaman sangat cocok untuk keluarga
+Pantai Senggigi,3,"Cukup menarik, meski ada beberapa kekurangan di fasilitas.",Netral,cukup menarik meski ada beberapa kekurangan di fasilitas
+Labuan Bajo,5,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Danau Toba,5,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Gili Trawangan,5,"Pengalaman tak terlupakan, pasti akan kembali lagi ke sini.",Positif,pengalaman tak terlupakan pasti akan kembali lagi ke sini
+Komodo National Park,4,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Kebun Raya Bogor,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Kebun Raya Bogor,4,"Lokasi mudah dijangkau, parkir luas, tempat sangat terawat.",Positif,lokasi mudah dijangkau parkir luas tempat sangat terawat
+Ancol Dreamland,3,"Tempat cukup oke, ada beberapa fasilitas yang perlu diperbaiki.",Netral,tempat cukup oke ada beberapa fasilitas yang perlu diperbaiki
+Istana Maimun,4,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Pantai Jimbaran,4,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Gunung Rinjani,3,"Cukup menarik, meski ada beberapa kekurangan di fasilitas.",Netral,cukup menarik meski ada beberapa kekurangan di fasilitas
+Nusa Penida,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Kawah Ijen,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Kepulauan Seribu,5,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Pantai Senggigi,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Goa Pindul,4,"Wisata alam terbaik, cocok untuk liburan keluarga dan anak-anak.",Positif,wisata alam terbaik cocok untuk liburan keluarga dan anak-anak
+Danau Toba,3,Pemandangan bagus tapi terlalu ramai di akhir pekan.,Netral,pemandangan bagus tapi terlalu ramai di akhir pekan
+Pura Besakih,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Borobudur Temple,4,"Wisata terbaik yang pernah saya kunjungi, sangat direkomendasikan.",Positif,wisata terbaik yang pernah saya kunjungi sangat direkomendasikan
+Taman Nasional Ujung Kulon,3,Lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya.,Netral,lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya
+Gunung Rinjani,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Air Terjun Gitgit,4,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Danau Toba,4,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Ancol Dreamland,5,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Goa Pindul,4,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Ancol Dreamland,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Lembah Harau,4,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Lembah Harau,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Pantai Parangtritis,3,Pemandangan bagus tapi terlalu ramai di akhir pekan.,Netral,pemandangan bagus tapi terlalu ramai di akhir pekan
+Kepulauan Seribu,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Kepulauan Seribu,4,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Pantai Kuta Bali,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Ancol Dreamland,3,Lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya.,Netral,lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya
+Istana Maimun,3,"Tempat cukup oke, ada beberapa fasilitas yang perlu diperbaiki.",Netral,tempat cukup oke ada beberapa fasilitas yang perlu diperbaiki
+Kepulauan Seribu,4,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Taman Nasional Ujung Kulon,5,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Pantai Pink Lombok,5,"Lokasi mudah dijangkau, parkir luas, tempat sangat terawat.",Positif,lokasi mudah dijangkau parkir luas tempat sangat terawat
+Gili Trawangan,5,"Wisata alam terbaik, cocok untuk liburan keluarga dan anak-anak.",Positif,wisata alam terbaik cocok untuk liburan keluarga dan anak-anak
+Taman Nasional Ujung Kulon,4,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Raja Ampat,5,"Lokasi mudah dijangkau, parkir luas, tempat sangat terawat.",Positif,lokasi mudah dijangkau parkir luas tempat sangat terawat
+Ubud Monkey Forest,4,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Komodo National Park,2,"Terlalu ramai dan padat, tidak bisa menikmati suasana dengan tenang.",Negatif,terlalu ramai dan padat tidak bisa menikmati suasana dengan tenang
+Gili Trawangan,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Taman Mini Indonesia Indah,5,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Taman Laut Bunaken,4,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Pantai Parangtritis,5,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Air Terjun Gitgit,5,"Pengalaman tak terlupakan, pasti akan kembali lagi ke sini.",Positif,pengalaman tak terlupakan pasti akan kembali lagi ke sini
+Kebun Raya Bogor,5,"Fasilitas lengkap dan nyaman, sangat cocok untuk keluarga.",Positif,fasilitas lengkap dan nyaman sangat cocok untuk keluarga
+Taman Laut Bunaken,4,"Lokasi mudah dijangkau, parkir luas, tempat sangat terawat.",Positif,lokasi mudah dijangkau parkir luas tempat sangat terawat
+Bromo Tengger Semeru,4,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Gunung Rinjani,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Komodo National Park,3,"Cukup menarik, meski ada beberapa kekurangan di fasilitas.",Netral,cukup menarik meski ada beberapa kekurangan di fasilitas
+Pantai Pink Lombok,5,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Pantai Parangtritis,5,"Lokasi mudah dijangkau, parkir luas, tempat sangat terawat.",Positif,lokasi mudah dijangkau parkir luas tempat sangat terawat
+Tanah Lot Bali,3,"Cukup menarik, meski ada beberapa kekurangan di fasilitas.",Netral,cukup menarik meski ada beberapa kekurangan di fasilitas
+Borobudur Temple,4,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Ubud Monkey Forest,1,"Parkir sempit dan jauh dari lokasi wisata, tidak nyaman.",Negatif,parkir sempit dan jauh dari lokasi wisata tidak nyaman
+Istana Maimun,1,Kurang informasi dan petunjuk arah di lokasi wisata ini.,Negatif,kurang informasi dan petunjuk arah di lokasi wisata ini
+Air Terjun Gitgit,4,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Pura Besakih,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Kepulauan Seribu,3,"Tempat cukup oke, ada beberapa fasilitas yang perlu diperbaiki.",Netral,tempat cukup oke ada beberapa fasilitas yang perlu diperbaiki
+Kawah Ijen,4,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Labuan Bajo,3,"Cukup menarik, meski ada beberapa kekurangan di fasilitas.",Netral,cukup menarik meski ada beberapa kekurangan di fasilitas
+Nusa Penida,3,Pemandangan bagus tapi terlalu ramai di akhir pekan.,Netral,pemandangan bagus tapi terlalu ramai di akhir pekan
+Kebun Raya Bogor,4,"Fasilitas lengkap dan nyaman, sangat cocok untuk keluarga.",Positif,fasilitas lengkap dan nyaman sangat cocok untuk keluarga
+Prambanan Temple,4,"Lokasi mudah dijangkau, parkir luas, tempat sangat terawat.",Positif,lokasi mudah dijangkau parkir luas tempat sangat terawat
+Komodo National Park,4,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Kebun Raya Bogor,5,"Pengalaman tak terlupakan, pasti akan kembali lagi ke sini.",Positif,pengalaman tak terlupakan pasti akan kembali lagi ke sini
+Danau Toba,5,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Ubud Monkey Forest,5,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Pantai Jimbaran,3,Lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya.,Netral,lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya
+Istana Maimun,4,"Pengalaman tak terlupakan, pasti akan kembali lagi ke sini.",Positif,pengalaman tak terlupakan pasti akan kembali lagi ke sini
+Nusa Penida,4,"Wisata alam terbaik, cocok untuk liburan keluarga dan anak-anak.",Positif,wisata alam terbaik cocok untuk liburan keluarga dan anak-anak
+Pantai Kuta Bali,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Gili Trawangan,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Lembah Harau,5,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Taman Mini Indonesia Indah,3,Lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya.,Netral,lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya
+Pura Besakih,3,"Cukup menarik, meski ada beberapa kekurangan di fasilitas.",Netral,cukup menarik meski ada beberapa kekurangan di fasilitas
+Pura Besakih,3,"Standar wisata pada umumnya, tidak ada yang spesial.",Netral,standar wisata pada umumnya tidak ada yang spesial
+Kepulauan Seribu,4,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Labuan Bajo,5,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Borobudur Temple,5,"Fasilitas lengkap dan nyaman, sangat cocok untuk keluarga.",Positif,fasilitas lengkap dan nyaman sangat cocok untuk keluarga
+Bromo Tengger Semeru,5,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Pantai Parangtritis,1,"Sampah berserakan di mana-mana, pengelolaan kebersihan kurang baik.",Negatif,sampah berserakan di mana-mana pengelolaan kebersihan kurang baik
+Pantai Derawan,5,"Fasilitas lengkap dan nyaman, sangat cocok untuk keluarga.",Positif,fasilitas lengkap dan nyaman sangat cocok untuk keluarga
+Nusa Penida,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Kebun Raya Bogor,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Tanah Lot Bali,3,Pemandangan bagus tapi terlalu ramai di akhir pekan.,Netral,pemandangan bagus tapi terlalu ramai di akhir pekan
+Pantai Jimbaran,4,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Gili Trawangan,4,"Wisata terbaik yang pernah saya kunjungi, sangat direkomendasikan.",Positif,wisata terbaik yang pernah saya kunjungi sangat direkomendasikan
+Ubud Monkey Forest,5,"Wisata terbaik yang pernah saya kunjungi, sangat direkomendasikan.",Positif,wisata terbaik yang pernah saya kunjungi sangat direkomendasikan
+Pantai Pink Lombok,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Pantai Kuta Bali,3,"Tempat cukup oke, ada beberapa fasilitas yang perlu diperbaiki.",Netral,tempat cukup oke ada beberapa fasilitas yang perlu diperbaiki
+Taman Nasional Ujung Kulon,4,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Borobudur Temple,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Nusa Penida,5,"Wisata terbaik yang pernah saya kunjungi, sangat direkomendasikan.",Positif,wisata terbaik yang pernah saya kunjungi sangat direkomendasikan
+Goa Pindul,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Nusa Penida,5,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Air Terjun Gitgit,4,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Danau Toba,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Bromo Tengger Semeru,5,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Danau Toba,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Taman Nasional Ujung Kulon,4,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Pantai Jimbaran,2,"Sampah berserakan di mana-mana, pengelolaan kebersihan kurang baik.",Negatif,sampah berserakan di mana-mana pengelolaan kebersihan kurang baik
+Pantai Kuta Bali,4,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Raja Ampat,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Gili Trawangan,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Bromo Tengger Semeru,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Prambanan Temple,3,Pemandangan bagus tapi terlalu ramai di akhir pekan.,Netral,pemandangan bagus tapi terlalu ramai di akhir pekan
+Lembah Harau,2,"Terlalu ramai dan padat, tidak bisa menikmati suasana dengan tenang.",Negatif,terlalu ramai dan padat tidak bisa menikmati suasana dengan tenang
+Pantai Parangtritis,3,"Tempat cukup oke, ada beberapa fasilitas yang perlu diperbaiki.",Netral,tempat cukup oke ada beberapa fasilitas yang perlu diperbaiki
+Prambanan Temple,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Taman Nasional Ujung Kulon,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Lembah Harau,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Pantai Pink Lombok,5,"Wisata terbaik yang pernah saya kunjungi, sangat direkomendasikan.",Positif,wisata terbaik yang pernah saya kunjungi sangat direkomendasikan
+Pantai Parangtritis,3,Lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya.,Netral,lumayan bagus tapi bisa lebih ditingkatkan lagi pengelolaannya
+Ubud Monkey Forest,5,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Gili Trawangan,4,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Ancol Dreamland,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Komodo National Park,3,"Tempat cukup oke, ada beberapa fasilitas yang perlu diperbaiki.",Netral,tempat cukup oke ada beberapa fasilitas yang perlu diperbaiki
+Nusa Penida,4,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Pantai Pink Lombok,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Borobudur Temple,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Kebun Raya Bogor,4,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Pantai Jimbaran,4,"Destinasi wisata yang wajib dikunjungi, pemandangan memukau.",Positif,destinasi wisata yang wajib dikunjungi pemandangan memukau
+Pura Besakih,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Gunung Rinjani,5,"Wisata terbaik yang pernah saya kunjungi, sangat direkomendasikan.",Positif,wisata terbaik yang pernah saya kunjungi sangat direkomendasikan
+Tanah Lot Bali,3,"Tempat cukup oke, ada beberapa fasilitas yang perlu diperbaiki.",Netral,tempat cukup oke ada beberapa fasilitas yang perlu diperbaiki
+Prambanan Temple,5,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Labuan Bajo,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Gili Trawangan,5,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Taman Laut Bunaken,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Lembah Harau,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Nusa Penida,1,"Sampah berserakan di mana-mana, pengelolaan kebersihan kurang baik.",Negatif,sampah berserakan di mana-mana pengelolaan kebersihan kurang baik
+Goa Pindul,5,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Prambanan Temple,5,"Wisata alam terbaik, cocok untuk liburan keluarga dan anak-anak.",Positif,wisata alam terbaik cocok untuk liburan keluarga dan anak-anak
+Pantai Pink Lombok,4,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Istana Maimun,4,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Gunung Rinjani,5,"Pengalaman tak terlupakan, pasti akan kembali lagi ke sini.",Positif,pengalaman tak terlupakan pasti akan kembali lagi ke sini
+Taman Laut Bunaken,5,"Pengalaman tak terlupakan, pasti akan kembali lagi ke sini.",Positif,pengalaman tak terlupakan pasti akan kembali lagi ke sini
+Pura Besakih,4,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Pantai Kuta Bali,4,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Taman Mini Indonesia Indah,4,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Kawah Ijen,4,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Danau Toba,5,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Pantai Kuta Bali,3,"Cukup menarik, meski ada beberapa kekurangan di fasilitas.",Netral,cukup menarik meski ada beberapa kekurangan di fasilitas
+Danau Toba,5,"Pengalaman tak terlupakan, pasti akan kembali lagi ke sini.",Positif,pengalaman tak terlupakan pasti akan kembali lagi ke sini
+Taman Mini Indonesia Indah,5,"Bersih dan terawat dengan baik, petugas sangat ramah dan helpful.",Positif,bersih dan terawat dengan baik petugas sangat ramah dan helpful
+Prambanan Temple,4,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Komodo National Park,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Nusa Penida,5,"Lokasi mudah dijangkau, parkir luas, tempat sangat terawat.",Positif,lokasi mudah dijangkau parkir luas tempat sangat terawat
+Borobudur Temple,4,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Labuan Bajo,3,"Standar wisata pada umumnya, tidak ada yang spesial.",Netral,standar wisata pada umumnya tidak ada yang spesial
+Kawah Ijen,4,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Kebun Raya Bogor,4,"Wisata alam terbaik, cocok untuk liburan keluarga dan anak-anak.",Positif,wisata alam terbaik cocok untuk liburan keluarga dan anak-anak
+Tanah Lot Bali,5,"Wisata alam terbaik, cocok untuk liburan keluarga dan anak-anak.",Positif,wisata alam terbaik cocok untuk liburan keluarga dan anak-anak
+Komodo National Park,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Goa Pindul,4,"Fasilitas lengkap dan nyaman, sangat cocok untuk keluarga.",Positif,fasilitas lengkap dan nyaman sangat cocok untuk keluarga
+Pantai Jimbaran,3,Pemandangan bagus tapi terlalu ramai di akhir pekan.,Netral,pemandangan bagus tapi terlalu ramai di akhir pekan
+Danau Toba,2,"Parkir sempit dan jauh dari lokasi wisata, tidak nyaman.",Negatif,parkir sempit dan jauh dari lokasi wisata tidak nyaman
+Air Terjun Gitgit,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Kebun Raya Bogor,3,"Standar wisata pada umumnya, tidak ada yang spesial.",Netral,standar wisata pada umumnya tidak ada yang spesial
+Kawah Ijen,4,"Lokasi mudah dijangkau, parkir luas, tempat sangat terawat.",Positif,lokasi mudah dijangkau parkir luas tempat sangat terawat
+Kawah Ijen,5,"Tempat sangat bersih, staff ramah, dan fasilitas bagus sekali.",Positif,tempat sangat bersih staff ramah dan fasilitas bagus sekali
+Kepulauan Seribu,4,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Pantai Senggigi,4,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Pantai Jimbaran,5,"Harga tiket sangat terjangkau, nilai uang sangat sepadan.",Positif,harga tiket sangat terjangkau nilai uang sangat sepadan
+Pantai Senggigi,5,"Pengalaman seru dan menakjubkan, pemandangan alam yang cantik.",Positif,pengalaman seru dan menakjubkan pemandangan alam yang cantik
+Goa Pindul,4,"Wisata terbaik yang pernah saya kunjungi, sangat direkomendasikan.",Positif,wisata terbaik yang pernah saya kunjungi sangat direkomendasikan
+Kawah Ijen,4,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Prambanan Temple,2,"Sampah berserakan di mana-mana, pengelolaan kebersihan kurang baik.",Negatif,sampah berserakan di mana-mana pengelolaan kebersihan kurang baik
+Pantai Derawan,5,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Pura Besakih,3,"Standar wisata pada umumnya, tidak ada yang spesial.",Netral,standar wisata pada umumnya tidak ada yang spesial
+Ubud Monkey Forest,4,"Wisata alam terbaik, cocok untuk liburan keluarga dan anak-anak.",Positif,wisata alam terbaik cocok untuk liburan keluarga dan anak-anak
+Goa Pindul,5,"Wisata alam terbaik, cocok untuk liburan keluarga dan anak-anak.",Positif,wisata alam terbaik cocok untuk liburan keluarga dan anak-anak
+Lembah Harau,4,"Lokasi mudah dijangkau, parkir luas, tempat sangat terawat.",Positif,lokasi mudah dijangkau parkir luas tempat sangat terawat
+Gunung Rinjani,4,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
+Pura Besakih,1,Fasilitas toilet kurang bersih dan tidak terawat dengan baik.,Negatif,fasilitas toilet kurang bersih dan tidak terawat dengan baik
+Istana Maimun,5,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Danau Toba,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Pantai Parangtritis,3,"Standar wisata pada umumnya, tidak ada yang spesial.",Netral,standar wisata pada umumnya tidak ada yang spesial
+Labuan Bajo,3,"Cukup menarik, meski ada beberapa kekurangan di fasilitas.",Netral,cukup menarik meski ada beberapa kekurangan di fasilitas
+Komodo National Park,4,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Pantai Pink Lombok,5,"Wisata terbaik yang pernah saya kunjungi, sangat direkomendasikan.",Positif,wisata terbaik yang pernah saya kunjungi sangat direkomendasikan
+Taman Nasional Ujung Kulon,5,"Pemandangan sunrise di sini luar biasa indah, sangat recommended.",Positif,pemandangan sunrise di sini luar biasa indah sangat recommended
+Pantai Jimbaran,5,"Wisata alam terbaik, cocok untuk liburan keluarga dan anak-anak.",Positif,wisata alam terbaik cocok untuk liburan keluarga dan anak-anak
+Ubud Monkey Forest,4,Tempat yang sangat indah dan memukau! Pemandangannya luar biasa.,Positif,tempat yang sangat indah dan memukau pemandangannya luar biasa
+Pantai Senggigi,4,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Raja Ampat,2,Pedagang asongan terlalu agresif mengganggu kenyamanan wisatawan.,Negatif,pedagang asongan terlalu agresif mengganggu kenyamanan wisatawan
+Taman Mini Indonesia Indah,4,"Air laut jernih dan biru, pasir putih bersih, sangat indah.",Positif,air laut jernih dan biru pasir putih bersih sangat indah
+Lembah Harau,5,"Spot foto terbaik, instagramable banget! Tempat sangat cantik.",Positif,spot foto terbaik instagramable banget tempat sangat cantik
+Taman Mini Indonesia Indah,5,"Suasana alam sangat asri dan sejuk, keluarga sangat menikmati.",Positif,suasana alam sangat asri dan sejuk keluarga sangat menikmati
